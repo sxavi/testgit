@@ -1,0 +1,9 @@
+.login {
+  display: flex;
+  box-sizing: border-box;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+}
